@@ -20,9 +20,11 @@ Verifying with N=1000 solitary run,
 Improvement = (0.467 / 3.216) x 100 = 14.521%
 Runtime reduced by 85.479%
 
+
 ![image](https://user-images.githubusercontent.com/54830217/212600706-450526ff-b040-4a79-96bc-dbf66aef36ce.png)
 
-Sequential calculation time screenshot
+Sequential calculation time
+
 
 ![image](https://user-images.githubusercontent.com/54830217/212600670-c8a690e1-6096-4dce-a4c8-ad6744f55949.png)
 
@@ -43,6 +45,7 @@ Runtime further reduced by 54.104%
 Verifying with solitary N=1000 run,
 Improvement = (0.331 / 0.467) x 100 = 70.878%
 Runtime reduced by 29.122%
+
 
 ![image](https://user-images.githubusercontent.com/54830217/212600616-3f4dc4f9-8454-4062-ad3b-ec1f023d48de.png)
 
