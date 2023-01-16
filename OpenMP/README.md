@@ -2,7 +2,7 @@ I have run the program with N = 1000 (below) and 2048 (for tasks to match the qu
 
 ![image](https://user-images.githubusercontent.com/54830217/212600751-20a1ab16-6b67-4232-824f-cbdccd613da9.png)
 
-OpenMP parallel, blocks and sequential calculation time screenshot for N = 1000
+OpenMP parallel, blocks and sequential calculation time for N = 1000
 
 Task I:
 Comparison between sequential and parallel execution:
