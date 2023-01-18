@@ -1,15 +1,3 @@
-/*Sanjeev Khemani
-
-Dr. Kun Suo
-
-Fall 2021
-
-Kennesaw State University
-
-CS7172 Parallel and Distributed Computing*/
-
-
-
 #include <pthread.h>
 
 #include <stdlib.h>
